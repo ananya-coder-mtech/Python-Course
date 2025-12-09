@@ -1,1 +1,1 @@
-# Food-wastage-management
+# Python-course
